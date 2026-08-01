@@ -3,7 +3,7 @@
 **AI/ML Engineer in the making** | B.Tech AI & ML student with hands-on backend engineering experience — I like building the systems that get ML models into production, not just training them.
 
 📍 Kanigiri, Andhra Pradesh — open to **remote** roles, available for on-site openings in **Hyderabad**
-🎓 B.Tech in Artificial Intelligence & Machine Learning, Aditya University (2024–2028) — CGPA 8.37
+🎓 B.Tech in Artificial Intelligence & Machine Learning, Aditya University (2024–2028) — CGPA 8.35
 💼 Currently: Backend & Data Engineer on a 6-member team building an **AI-Based Air Quality Prediction System** (Infosys Springboard Virtual Internship) — handling the data pipelines and infrastructure that feed the LSTM forecasting model
 
 ---
@@ -42,8 +42,8 @@ AI-powered phishing detection platform for malicious URL classification. Built t
 ## 📜 Certifications & Experience
 
 - Generative AI Intern — UniPilot (On-site, May–Jul 2026)
-- Software Development Intern — Unipilot (Python, backend development, REST APIs)
-- Infosys Springboard Virtual Internship — AI/ML, software development
+- Software Development Intern — Unipilot AI/ML, RAG, LLM's,
+- Infosys Springboard Virtual Internship — (Python, backend development, REST APIs) 
 - IBM Python for Data Science, AI & Development
 - Power BI for Data Analytics
 
