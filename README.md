@@ -1,60 +1,180 @@
-# Hi, I'm Mukku Takur 👋
+<div align="center">
 
-**AI/ML Engineer in the making** | B.Tech AI & ML student with hands-on backend engineering experience — I like building the systems that get ML models into production, not just training them.
+# 👋 Hi, I'm Mukku Takur
 
-📍 Kanigiri, Andhra Pradesh — open to **remote** roles, available for on-site openings in **Hyderabad**
-🎓 B.Tech in Artificial Intelligence & Machine Learning, Aditya University (2024–2028) — CGPA 8.35
-💼 Currently: Backend & Data Engineer on a 6-member team building an **AI-Based Air Quality Prediction System** (Infosys Springboard Virtual Internship) — handling the data pipelines and infrastructure that feed the LSTM forecasting model
+### AI/ML Engineer in the Making · Backend & Data Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Learning+ML+from+the+inside+out;Backend+%2B+Data+%2B+AI;Turning+ideas+into+working+systems" alt="Typing animation" />
+
+<a href="https://github.com/Takurreddy"><img src="https://img.shields.io/badge/GitHub-Takurreddy-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/takur-reddy-mukku-9b601230b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://takurm.framer.website/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome" /></a>
+
+</div>
 
 ---
 
-## 🔧 What I work on
+## 🧑‍💻 About Me
 
-- **Backend systems** — FastAPI services, REST API design, JWT authentication
-- **Data engineering** — polyglot persistence (PostgreSQL + InfluxDB), ETL/cleaning pipelines, scheduled ingestion with APScheduler
-- **ML integration** — wiring backend systems around forecasting models (LSTM-based time series prediction)
-- **DevOps** — Docker Compose, GitHub Actions CI/CD, deployment on Render/Vercel
+I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys building practical AI systems and the backend infrastructure that makes them work.
+
+I like going beyond simply training models — I enjoy understanding the **data pipeline, APIs, databases, model integration, deployment, and the engineering decisions** around an ML application.
+
+- 🎓 B.Tech AI & ML — Aditya University (2024–2028)
+- 🤖 Focused on **Machine Learning, Generative AI, LLMs, RAG & AI agents**
+- ⚙️ Building with **Python, FastAPI, SQL, Docker and ML frameworks**
+- 🧩 Interested in **backend engineering + data engineering + AI/ML**
+- 📚 Currently strengthening my understanding of ML algorithms and their underlying processes
+- 🚀 Goal: build reliable, useful AI systems that solve real problems
+
+---
 
 ## 🚀 Featured Projects
 
-### [AI-Based Air Quality Prediction & Route Optimization](https://github.com/Takurreddy/Air-prediction-)
-AI-powered platform for AQI prediction and intelligent route optimization using LSTM. Built the backend architecture: FastAPI services, PostgreSQL + InfluxDB dual-database design, hourly data ingestion via APScheduler, preprocessing pipelines for pollution/weather datasets, and a full Docker + CI pipeline. Also built a 5-step data cleaning pipeline (sanitization → structuring → deduplication → KNN imputation → normalization) processing ~44K rows of raw air quality data.
-**Stack:** Python · FastAPI · LSTM · PostgreSQL · InfluxDB · Docker · GitHub Actions
+<table>
+<tr>
+<td width="50%">
 
-### [Multi-Agent AI Research Assistant](https://github.com/Takurreddy/multi-agent-research-system)
-Multi-agent research assistant built with Python, LangChain, and LLMs. Integrates web search, document processing, and FastAPI to automate research workflows, with prompt engineering and a modular backend architecture.
-**Stack:** Python · LangChain · LLMs · FastAPI
+### 🌫️ AI Air Quality Prediction
 
-### [PhishGuard AI](https://github.com/Takurreddy/PhishGuard-AI) — [Live Demo]
-AI-powered phishing detection platform for malicious URL classification. Built the ML pipeline, a responsive web interface for real-time predictions, and REST APIs on a FastAPI backend (deployed on Render) with a React/Vite frontend (deployed on Vercel), secured with JWT auth.
-**Stack:** Python · FastAPI · React · Vite · Scikit-learn · JWT
+AI-powered **AQI prediction and route optimization** platform using LSTM-based forecasting.
+
+**Built with:** Python · FastAPI · LSTM · PostgreSQL · InfluxDB · Docker · GitHub Actions
+
+<a href="https://github.com/Takurreddy/Air-prediction-">View Project →</a>
+
+</td>
+<td width="50%">
+
+### 🤖 Multi-Agent Research Assistant
+
+A modular AI research system using **LLMs, LangChain, web search and document processing** to automate research workflows.
+
+**Built with:** Python · LangChain · LLMs · FastAPI
+
+<a href="https://github.com/Takurreddy/multi-agent-research-system">View Project →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ PhishGuard AI
+
+AI-powered phishing detection platform for **malicious URL classification** with real-time prediction APIs.
+
+**Built with:** Python · FastAPI · React · Vite · Scikit-learn · JWT
+
+<a href="https://github.com/Takurreddy/PhishGuard-AI">View Project →</a>
+
+</td>
+<td width="50%">
+
+### 🏥 Medicare Hospital Management
+
+Full-stack hospital appointment booking system with registration, authentication, appointment booking and doctor dashboard functionality.
+
+**Built with:** Node.js · Express · MongoDB · JavaScript
+
+<a href="https://github.com/Takurreddy/Medicare_Hospitalmanagement_MiniProject">View Project →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-**AI/ML:** `Scikit-learn` `LSTM` `LangChain` `Pandas` `NumPy` `Matplotlib`
-**Languages:** `Python` `C++` `SQL`
-**Backend:** `FastAPI` `REST APIs`
-**Databases:** `MySQL` `SQLite` `InfluxDB` `PostgreSQL`
-**Tools:** `Git` `GitHub` `Docker` `VS Code` `Jupyter Notebook`
+### Languages
 
-## 📜 Certifications & Experience
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
 
-- Generative AI Intern — UniPilot (On-site, May–Jul 2026)
-- Software Development Intern — Unipilot AI/ML, RAG, LLM's,
-- Infosys Springboard Virtual Internship — (Python, backend development, REST APIs) 
-- IBM Python for Data Science, AI & Development
-- Power BI for Data Analytics
+### AI / ML / Data
 
-## 📫 Connect
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<br />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+</p>
 
-- LinkedIn: [linkedin.com/in/takur-reddy-mukku-9b601230b](https://www.linkedin.com/in/takur-reddy-mukku-9b601230b/)
-- Email: takurmukku158@gmail.com
-- Portfolio: [takurm.framer.website](https://takurm.framer.website/)
+### Backend / Databases / DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,docker,git,github,githubactions" />
+</p>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Takurreddy&show_icons=true&theme=default&hide_border=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takurreddy&layout=compact&hide_border=true" height="150"/>
+## 🔥 What I'm Currently Working On
 
-*Open to AI/ML and backend engineering opportunities — remote first, available on-site in Hyderabad.*
+```text
+AI / ML              ███████████████████░  Learning + Building
+Generative AI         ████████████████░░░░  Exploring
+Backend Engineering   █████████████████░░░  Building
+Data Engineering      ███████████████░░░░░  Improving
+DSA                   █████████████░░░░░░░  Practicing
+```
+
+- 🧠 Deepening my understanding of **ML algorithms and model internals**
+- 🤖 Exploring **LLMs, RAG and multi-agent architectures**
+- ⚙️ Building production-style **FastAPI backend systems**
+- 📊 Improving **data preprocessing, ETL and database workflows**
+- 🐳 Learning better **Docker, CI/CD and deployment practices**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Takurreddy&show_icons=true&include_all_commits=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takurreddy&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Takurreddy&theme=default&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Takurreddy&theme=minimal&hide_border=true" width="95%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Takurreddy&theme=flat&no-frame=true&no-bg=true&margin-w=10" width="95%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:takurmukku158@gmail.com">📧 Email</a> ·
+<a href="https://www.linkedin.com/in/takur-reddy-mukku-9b601230b/">💼 LinkedIn</a> ·
+<a href="https://takurm.framer.website/">🌐 Portfolio</a> ·
+<a href="https://github.com/Takurreddy">🐙 GitHub</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Experiment. Ship. Repeat.
+
+<img src="https://komarev.com/ghpvc/?username=Takurreddy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
