@@ -2,273 +2,75 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Mukku%20Takur%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20Deep%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20LLMs%20%C2%B7%20RAG&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+intelligent+AI+systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Multi-Agent+AI;From+data+%E2%86%92+models+%E2%86%92+real+products" alt="Typing animation" />
+<a href="https://takurm.framer.website/"><img src="https://img.shields.io/badge/Portfolio%20Site-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-**AI/ML Engineer**  
-*Deep Learning · Generative AI · LLMs · RAG · AI Agents*
-
-<br/>
-
-[GitHub](https://github.com/Takurreddy)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/takur-reddy-mukku-9b601230b/)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[Portfolio](https://takurm.framer.website/)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[Email](mailto:takurmukku158@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Takur+%F0%9F%91%8B%3B+GenAI+%2B+Full-Stack+Developer%3B+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
 
 </div>
 
-</div>
+## ✧ About Me *[Undergraduate: 2024–28]*
 
----
+I'm a **Passionate Developer** with a strong background in building intelligent, end-to-end applications that blend **Machine Learning / Generative AI** and **backend engineering**. Currently a **Backend & Data Engineer** on the AirPulse IQ project (Infosys Springboard).
 
-## 🧠 About
+- 🔹 Building forecasting models, RAG pipelines & multi-agent architectures
+- 🔹 Deploying backends with FastAPI, Docker & PostgreSQL/InfluxDB
+- 🔹 Passionate about turning models into real, usable products
 
-B.Tech student in **Artificial Intelligence & Machine Learning** at Aditya University, focused on building practical intelligent systems — from data and experimentation through to model serving and deployment.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=7933FF,00FFFF" width="100%" />
 
-I work primarily in **Python** across machine learning, deep learning, time-series forecasting, and Generative AI — including LLM applications, RAG, and multi-agent architectures.
+## ⚙️ Tech Stack
 
-Alongside the modeling side, I use **FastAPI, SQL, Docker, and REST APIs** to turn models into applications people can actually use.
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Focus:** Machine Learning · Deep Learning · Generative AI · RAG · AI Agents · MLOps
+**Machine Learning & Deep Learning:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0891B2?style=for-the-badge)
 
----
+**Generative AI / LLM:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C5B?style=for-the-badge&logo=chainlink&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-A78BFA?style=for-the-badge)
 
-## 📊 GitHub Activity
+**Databases & Infrastructure:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<div align="center">
+**DevOps & Deployment:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Takurreddy&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1120&title_color=A78BFA&text_color=C7D2FE&icon_color=7C3AED" height="165" alt="GitHub statistics" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=00FFFF,7933FF" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takurreddy&layout=compact&hide_border=true&bg_color=0B1120&title_color=A78BFA&text_color=C7D2FE" height="165" alt="Top languages" />
+## 🚀 Selected Projects
 
-<br/>
+- **[AirAware India](https://github.com/Takurreddy/Air-prediction-)** — LSTM-based AQI forecasting with route analysis for air-quality-aware travel. `Python` `LSTM` `FastAPI` `PostgreSQL` `InfluxDB` `Docker`
+- **[Multi-Agent Research System](https://github.com/Takurreddy/multi-agent-research-system)** — Cooperative agents for search, reading, writing, and critique via LangChain. `LLMs` `LangChain` `Streamlit`
+- **[PhishGuard AI](https://github.com/Takurreddy/PhishGuard-AI)** — ML classifier for malicious URL detection, served via FastAPI with a React frontend. `Scikit-learn` `FastAPI` `React`
+- **[AI Financial Advisor](https://github.com/Takurreddy/AI-Financial-Advisor)** — AI-assisted decision-support workflows for personal finance. `AI Applications`
 
-<img src="https://streak-stats.demolab.com?user=Takurreddy&hide_border=true&background=0B1120&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C7D2FE&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 01 · 🌫️ AirAware India
-
-**AI Air Quality Prediction & Route Optimization**
-
-LSTM-based AQI forecasting with route analysis for air-quality-aware travel.
-
-**Technology**
-
-Python · LSTM · FastAPI · PostgreSQL · InfluxDB · Docker
-
-**Highlights**
-
-- Time-series AQI forecasting
-- Air-quality-aware route analysis
-- Real-time environmental data processing
-- Prediction API and deployment workflow
-
-[→ View Repository](https://github.com/Takurreddy/Air-prediction-)
-
----
-
-### 02 · 🤖 Multi-Agent Research System
-
-**Autonomous AI Research Workflow**
-
-A cooperative AI research system where specialized agents handle search, reading, writing, and critique.
-
-**Technology**
-
-Python · LangChain · LLMs · Tavily · Streamlit
-
-**Architecture**
-
-`Search Agent` → `Reader Agent` → `Writer` → `Critic`
-
-[→ View Repository](https://github.com/Takurreddy/multi-agent-research-system)
-
----
-
-### 03 · 🛡️ PhishGuard AI
-
-**Machine Learning Phishing Detection**
-
-ML-based malicious URL classification system with a FastAPI prediction backend and React interface.
-
-**Technology**
-
-Python · Scikit-learn · FastAPI · React · Vite
-
-**Focus**
-
-- Feature-based URL classification
-- ML prediction pipeline
-- REST API integration
-- Interactive frontend
-
-[→ View Repository](https://github.com/Takurreddy/PhishGuard-AI)
-
----
-
-### 04 · 💰 AI Financial Advisor
-
-**AI-Assisted Financial Decision Support**
-
-AI-focused project exploring intelligent assistance and decision-support workflows for personal finance.
-
-**Technology**
-
-AI Applications · Decision Support
-
-[→ View Repository](https://github.com/Takurreddy/AI-Financial-Advisor)
-
----
-
-## 🧰 Technical Arsenal
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-### 🤖 Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45" />
-
-<br/>
-
-**Machine Learning · Deep Learning · Generative AI · LLMs · RAG · AI Agents**
-
-<br/><br/>
-
-### 🧠 Machine Learning
-
-**Scikit-learn · XGBoost · Random Forest · Regression · Classification · Model Evaluation**
-
-<br/><br/>
-
-### 🔥 Deep Learning
-
-**TensorFlow · Keras · PyTorch · Neural Networks · LSTM · Sequence Models**
-
-<br/><br/>
-
-### ✨ Generative AI
-
-**LangChain · Hugging Face · LLM Applications · RAG · Tool Use · Multi-Agent Systems**
-
-<br/><br/>
-
-### 📊 Data Science
-
-**NumPy · Pandas · Matplotlib · Data Cleaning · Feature Engineering · Time-Series Data**
-
-<br/><br/>
-
-### 🐍 Programming
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java" height="45" />
+<img src="https://github-readme-stats.vercel.app/api?username=Takurreddy&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&ring=00FFFF&fire=7933FF&currStreakLabel=7933FF" height="165" />
+<img src="https://streak-stats.demolab.com?user=Takurreddy&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=7933FF&currStreakLabel=7933FF" height="165" />
 
 <br/>
 
-**Python · C++ · Java**
-
-<br/><br/>
-
-### ⚙️ AI Engineering
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker,git,github" height="45" />
-
-<br/>
-
-**FastAPI · PostgreSQL · MySQL · Docker · Git · GitHub · REST APIs**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Takurreddy&bg_color=0D1117&color=00FFFF&line=7933FF&point=FFFFFF&hide_border=true" width="97%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=20&section=header&color=7933FF,00FFFF" width="100%" />
 
-## 📚 Currently Learning
+**"Code is how I turn models into products."**
 
-### 🧠 Deep Learning
-
-Deepening PyTorch fundamentals through practical work with:
-
-**DataLoaders · Time-Series Data · LSTM · Gradient Clipping · Learning-Rate Scheduling · Walk-Forward Validation**
-
-### ✨ Generative AI
-
-Exploring:
-
-**LLM Applications · RAG · Tool Use · Multi-Agent Architectures**
-
-### ⚙️ MLOps
-
-Learning:
-
-**Model Serving · Docker · APIs · Reproducible Deployment**
-
----
-
-## 🧩 Also Building
-
-### ⚡ HDLForge
-
-Browser-based platform for practicing **Verilog/SystemVerilog** with a LeetCode-style workflow.
-
-**Technology**
-
-Next.js · FastAPI · PostgreSQL · Docker · Verilog
-
-**Features**
-
-- Automated compilation
-- HDL simulation
-- Testbench execution
-- Automated evaluation
-- Coding challenges
-
----
-
-## 📜 Certifications
-
-### IBM — Python for Data Science, AI & Development
-
-**Coursera**
-
----
-
-## 🎯 AI / ML Direction
+## 🌐 Connect With Me
 
 <div align="center">
 
-```text
-                    DATA
-                      │
-                      ▼
-              PREPROCESSING
-                      │
-                      ▼
-            FEATURE ENGINEERING
-                      │
-                      ▼
-           MACHINE LEARNING
-                      │
-                      ▼
-            DEEP LEARNING
-                      │
-                      ▼
-            GENERATIVE AI
-                      │
-                      ▼
-          LLMs + RAG + AGENTS
-                      │
-                      ▼
-             MODEL SERVING
-                      │
-                      ▼
-            REAL-WORLD AI
-               SYSTEMS
+<a href="https://github.com/Takurreddy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/takur-reddy-mukku-9b601230b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:takurmukku158@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:6366F1&height=100&section=footer" width="100%" />
