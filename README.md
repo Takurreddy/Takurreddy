@@ -210,7 +210,7 @@ AI-focused project exploring intelligent assistance and decision-support workflo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Takurreddy&bg_color=0B1120&color=C7D2FE&line=7C3AED&point=A78BFA&area=true&area_color=312E81&hide_border=true" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Takurreddy&bg_color=0B1120&color=C7D2FE&line=A78BFA&point=FFFFFF&area=true&area_color=312E81&hide_border=true" alt="Takurreddy contribution activity graph" width="100%" />
 
 </div>
 
@@ -220,7 +220,7 @@ AI-focused project exploring intelligent assistance and decision-support workflo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Takurreddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="92%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Takurreddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub trophies" width="100%" />
 
 </div>
 
