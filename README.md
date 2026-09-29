@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Mukku Takur
+# 👋 Hi, I'm Mukku Takur Reddy
 
-### AI/ML Engineer in the Making · Backend & Data Engineering
+### 🤖 Machine Learning & AI Engineer | Generative AI | LLMs | Deep Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Learning+ML+from+the+inside+out;Backend+%2B+Data+%2B+AI;Turning+ideas+into+working+systems" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Building+AI-powered+systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+AI+Agents;Turning+data+into+intelligent+products" alt="Typing animation" />
 
 <a href="https://github.com/Takurreddy"><img src="https://img.shields.io/badge/GitHub-Takurreddy-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://www.linkedin.com/in/takur-reddy-mukku-9b601230b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
@@ -14,43 +14,57 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys building practical AI systems and the backend infrastructure that makes them work.
+I'm a **B.Tech Artificial Intelligence & Machine Learning student** focused on building practical ML and AI systems from **data to deployment**.
 
-I like going beyond simply training models — I enjoy understanding the **data pipeline, APIs, databases, model integration, deployment, and the engineering decisions** around an ML application.
+My work spans **classical machine learning, deep learning, time-series forecasting, Generative AI, LLM applications, RAG and multi-agent systems**. I also build the supporting engineering layer required to turn models into usable applications.
 
-- 🎓 B.Tech AI & ML — Aditya University (2024–2028)
-- 🤖 Focused on **Machine Learning, Generative AI, LLMs, RAG & AI agents**
-- ⚙️ Building with **Python, FastAPI, SQL, Docker and ML frameworks**
-- 🧩 Interested in **backend engineering + data engineering + AI/ML**
-- 📚 Currently strengthening my understanding of ML algorithms and their underlying processes
-- 🚀 Goal: build reliable, useful AI systems that solve real problems
+- 🎓 B.Tech Artificial Intelligence & Machine Learning — Aditya University
+- 🤖 Focus: **Machine Learning · Deep Learning · Generative AI · LLMs · RAG · AI Agents**
+- 🐍 Primary language: **Python**
+- 📊 Interested in **model development, evaluation, experimentation and applied AI**
+- ⚙️ Supporting stack: **FastAPI · SQL · Docker · REST APIs · Git/GitHub**
+- 🚀 Goal: build practical, reproducible and production-oriented intelligent systems
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 AI / ML Focus
+
+| Area | Focus |
+|---|---|
+| **Machine Learning** | Scikit-learn · XGBoost · Random Forest · Regression · Classification · Evaluation |
+| **Deep Learning** | TensorFlow/Keras · PyTorch · Neural Networks · LSTM |
+| **Generative AI** | LLM applications · Prompt workflows · Model integration |
+| **LLM Engineering** | LangChain · RAG · Tool use · Multi-agent workflows |
+| **Data & Experimentation** | NumPy · Pandas · Matplotlib · Data Cleaning · Feature Engineering |
+| **ML Applications** | Prediction · Classification · Intelligent Assistants · AI Products |
+
+---
+
+## 🚀 Featured AI Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌫️ AI Air Quality Prediction
+### 🌫️ AirAware India
+**AI Air Quality Prediction & Route Optimization**
 
-AI-powered **AQI prediction and route optimization** platform using LSTM-based forecasting.
+ML-powered air-quality platform using **LSTM forecasting** and intelligent route analysis.
 
-**Built with:** Python · FastAPI · LSTM · PostgreSQL · InfluxDB · Docker · GitHub Actions
+**Stack:** Python · LSTM · FastAPI · PostgreSQL · InfluxDB · Docker
 
 <a href="https://github.com/Takurreddy/Air-prediction-">View Project →</a>
 
 </td>
 <td width="50%">
 
-### 🤖 Multi-Agent Research Assistant
+### 🤖 Multi-Agent Research System
 
-A modular AI research system using **LLMs, LangChain, web search and document processing** to automate research workflows.
+Cooperative AI research pipeline using specialized agents for **search, reading, writing and critique**.
 
-**Built with:** Python · LangChain · LLMs · FastAPI
+**Stack:** Python · LangChain · LLMs · Tavily · Streamlit
 
 <a href="https://github.com/Takurreddy/multi-agent-research-system">View Project →</a>
 
@@ -61,22 +75,20 @@ A modular AI research system using **LLMs, LangChain, web search and document pr
 
 ### 🛡️ PhishGuard AI
 
-AI-powered phishing detection platform for **malicious URL classification** with real-time prediction APIs.
+AI-powered phishing detection system for **malicious URL classification** and real-time prediction.
 
-**Built with:** Python · FastAPI · React · Vite · Scikit-learn · JWT
+**Stack:** Python · Scikit-learn · FastAPI · React · Vite
 
 <a href="https://github.com/Takurreddy/PhishGuard-AI">View Project →</a>
 
 </td>
 <td width="50%">
 
-### 🏥 Medicare Hospital Management
+### 💰 AI Financial Advisor
 
-Full-stack hospital appointment booking system with registration, authentication, appointment booking and doctor dashboard functionality.
+AI-focused project exploring **intelligent assistance and decision-support workflows**.
 
-**Built with:** Node.js · Express · MongoDB · JavaScript
-
-<a href="https://github.com/Takurreddy/Medicare_Hospitalmanagement_MiniProject">View Project →</a>
+<a href="https://github.com/Takurreddy/AI-Financial-Advisor">View Project →</a>
 
 </td>
 </tr>
@@ -84,48 +96,47 @@ Full-stack hospital appointment booking system with registration, authentication
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Technical Stack
 
-### Languages
-
+### Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
 ### AI / ML / Data
-
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<br />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
-### Backend / Databases / DevOps
-
+### Engineering for AI
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,docker,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker,git,github" />
 </p>
 
 ---
 
-## 🔥 What I'm Currently Working On
+## 📚 Currently Learning
 
-```text
-AI / ML              ███████████████████░  Learning + Building
-Generative AI         ████████████████░░░░  Exploring
-Backend Engineering   █████████████████░░░  Building
-Data Engineering      ███████████████░░░░░  Improving
-DSA                   █████████████░░░░░░░  Practicing
-```
+- 🧠 ML algorithms, feature engineering and model evaluation
+- 🔥 Deep learning: neural networks, CNNs, sequence models and LSTM
+- 🤖 Generative AI and modern LLM application patterns
+- 🔗 RAG, tool use and multi-agent AI systems
+- ⚙️ MLOps, model serving, Docker, APIs and reproducible deployment
 
-- 🧠 Deepening my understanding of **ML algorithms and model internals**
-- 🤖 Exploring **LLMs, RAG and multi-agent architectures**
-- ⚙️ Building production-style **FastAPI backend systems**
-- 📊 Improving **data preprocessing, ETL and database workflows**
-- 🐳 Learning better **Docker, CI/CD and deployment practices**
+---
+
+## 🧩 Other Engineering
+
+Beyond AI/ML, I build software systems that support my projects and coursework:
+
+- **HDLForge** — browser-based HDL practice and simulation platform
+- Full-stack academic applications using **React, Node.js, Express, SQL and MongoDB**
+- Competitive programming and DSA practice
 
 ---
 
@@ -158,22 +169,26 @@ DSA                   █████████████░░░░░░�
 
 ---
 
-## 📫 Let's Connect
+## 📜 Certifications & Learning
+
+- **IBM — Python for Data Science, AI & Development** (Coursera)
+
+---
+
+## 📫 Connect
 
 <p align="center">
-
 <a href="mailto:takurmukku158@gmail.com">📧 Email</a> ·
 <a href="https://www.linkedin.com/in/takur-reddy-mukku-9b601230b/">💼 LinkedIn</a> ·
 <a href="https://takurm.framer.website/">🌐 Portfolio</a> ·
 <a href="https://github.com/Takurreddy">🐙 GitHub</a>
-
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 Build. Learn. Experiment. Ship. Repeat.
+### Build. Experiment. Learn. Deploy. 🤖
 
 <img src="https://komarev.com/ghpvc/?username=Takurreddy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
