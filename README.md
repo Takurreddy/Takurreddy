@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Takur+%F0%9F%91%8B%3B+GenAI+%2B+Full-Stack+Developer%3B+Building+Intelligent+%26+Scalable+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Mukku%20Takur%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20LLMs%20%C2%B7%20RAG&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
