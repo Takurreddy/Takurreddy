@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Mukku%20Takur%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20Deep%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20LLMs%20%C2%B7%20RAG&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Mukku%20Takur%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20LLMs%20%C2%B7%20RAG&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://portfolio-takurreddy.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio%20Site-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Mukku%20Takur%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%94%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20LLMs%20%C2%B7%20RAG&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
